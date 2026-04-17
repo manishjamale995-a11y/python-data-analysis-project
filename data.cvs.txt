@@ -1,0 +1,9 @@
+Name,Age,Department,Salary,Experience
+Manish,22,IT,25000,1
+Shreya,24,Sales,30000,2
+Priya,23,HR,28000,1
+Sneha,26,IT,40000,4
+Amit,28,Finance,45000,5
+Riya,25,HR,35000,3
+Karan,27,Sales,38000,4
+Pooja,24,IT,32000,2
